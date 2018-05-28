@@ -13,6 +13,9 @@ You will have to change the Take Profit levels in the OrderSend() functions to s
 
 The default Take Profit levels are for GBPJPY in H1 timeframe.
 
+This bot logs into a text file in the following folder :
+C:\Users\[USERNAME]\AppData\Roaming\MetaQuotes\Terminal\Common\Files
+
 https://tradingbot.wixsite.com/robots-de-trading
 https://ichimoku-expert.blogspot.com
 https://ntic974.blogspot.com
