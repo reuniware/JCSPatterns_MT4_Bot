@@ -1,7 +1,7 @@
-﻿//+------------------------------------------------------------------+
- //|                                                 JCSPatterns.mq4 |
-//|                            Copyright 2018, Investdata Systems|
-//|                                         https://tradingbot.wixsite.com/robots-de-trading |
+//+------------------------------------------------------------------+
+//|                                                  JCSPatterns.mq4 |
+//|                                Copyright 2018, Investdata Systems|
+//|                 https://tradingbot.wixsite.com/robots-de-trading |
 //+------------------------------------------------------------------+
 #property copyright "Copyright 2018, Investdata Systems"
 #property link      "https://tradingbot.wixsite.com/robots-de-trading"
@@ -43,7 +43,7 @@ int OnInit()
       string strPeriod=EnumToString((ENUM_TIMEFRAMES)Period());
       StringReplace(strPeriod,"PERIOD_","");
 
-      file_handle=FileOpen(WindowExpertName()+"_"+Symbol()+"_"+strPeriod+"_"+timestamp+"_pblog.txt",FILE_CSV|FILE_WRITE|FILE_ANSI|FILE_COMMON);
+      file_handle=FileOpen(WindowExpertName()+"_"+Symbol()+"_"+strPeriod+"_"+timestamp+"_log.txt",FILE_CSV|FILE_WRITE|FILE_ANSI|FILE_COMMON);
       if(file_handle>0)
         {
          string sep=",";
@@ -188,7 +188,7 @@ void OnTick()
                if(NombreDePositionVendeuses()==0 /*&& rsi<45*/)
                  {
                   log("Ordre de vente");
-                  ticket=OrderSend(Symbol(),OP_SELL,2,Bid,3,/*Bid+0.003*/0,Ask-0.01,"JCS",16384,0,Green);
+                  ticket=OrderSend(Symbol(),OP_SELL,2,Bid,3,/*Bid+0.003*/0,Ask-0.1,"JCS",16384,0,Green);
                  }
 
               }
