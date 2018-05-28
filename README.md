@@ -5,7 +5,7 @@ This is intended to be used as a base for the development of a Metatrader 4 bot 
 
 This is a Metatrader 4 experimental bot that I coded while freestyling around detection of Bullish Engulfing Patterns (in french : Avalements Haussiers).
 
-This robot only detect bulling engulfing patterns.
+This robot only detects bulling engulfing patterns.
 
 It trades without Stop Loss so use it at your own risk if you test it on a real account (You should not, IMHO).
 
