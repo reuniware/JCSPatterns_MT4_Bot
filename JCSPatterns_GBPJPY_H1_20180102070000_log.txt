@@ -1,0 +1,57 @@
+Logging started at 20180102070000
+20180103180000 : Time = 2018.01.03 17:00:00 ; Avalement haussier ; RSI = 35.70645707928537
+20180103180000 : Ordre d'achat
+20180103180000 : Ordre de vente
+20180103193630 : OnTick: TakeProfit touché sur Ordre d'Achat ; OrderTicket #1 OrderProfit=127.92000000
+20180103193630 : OnTick: TakeProfit touché sur Ordre d'Achat ; OrderTicket #1 OrderProfit=127.92000000
+20180103200000 : Time = 2018.01.03 19:00:00 ; Avalement haussier ; RSI = 43.74228381804944
+20180103200000 : Ordre d'achat
+20180103200000 : Ordre de vente
+20180103202924 : OnTick: TakeProfit touché sur Ordre de Vente ; OrderTicket #4 OrderProfit=127.91000000
+20180104000508 : OnTick: TakeProfit touché sur Ordre d'Achat ; OrderTicket #3 OrderProfit=127.93000000
+20180104110000 : Time = 2018.01.04 10:00:00 ; Avalement haussier ; RSI = 60.05202773821673
+20180104110000 : Ordre d'achat
+20180104110000 : Ordre de vente
+20180104113648 : OnTick: TakeProfit touché sur Ordre d'Achat ; OrderTicket #5 OrderProfit=127.93000000
+20180104113648 : OnTick: TakeProfit touché sur Ordre d'Achat ; OrderTicket #5 OrderProfit=127.93000000
+20180104230000 : Time = 2018.01.04 22:00:00 ; Avalement haussier ; RSI = 61.48725787427831
+20180104230000 : Ordre d'achat
+20180105001904 : OnTick: TakeProfit touché sur Ordre d'Achat ; OrderTicket #7 OrderProfit=127.93000000
+20180107230000 : Time = 2018.01.07 22:00:00 ; Avalement haussier ; RSI = 60.702915116491
+20180107230000 : Ordre d'achat
+20180109040000 : Time = 2018.01.09 03:00:00 ; Avalement haussier ; RSI = 38.27651271082242
+20180109040000 : Ordre d'achat
+20180109122849 : OnTick: TakeProfit touché sur Ordre de Vente ; OrderTicket #6 OrderProfit=127.91000000
+20180111060000 : Time = 2018.01.11 05:00:00 ; Avalement haussier ; RSI = 48.2910786608239
+20180111060000 : Ordre de vente
+20180111062934 : OnTick: TakeProfit touché sur Ordre de Vente ; OrderTicket #10 OrderProfit=127.91000000
+20180111110000 : Time = 2018.01.11 10:00:00 ; Avalement haussier ; RSI = 41.53598012395642
+20180111110000 : Ordre de vente
+20180111112635 : OnTick: TakeProfit touché sur Ordre de Vente ; OrderTicket #11 OrderProfit=127.91000000
+20180112070000 : Time = 2018.01.12 06:00:00 ; Avalement haussier ; RSI = 51.31763960930484
+20180112070000 : Ordre de vente
+20180112120000 : Time = 2018.01.12 11:00:00 ; Avalement haussier ; RSI = 70.5957839373948
+20180116022933 : OnTick: TakeProfit touché sur Ordre d'Achat ; OrderTicket #9 OrderProfit=127.93000000
+20180116022933 : OnTick: TakeProfit touché sur Ordre d'Achat ; OrderTicket #9 OrderProfit=127.93000000
+20180116130000 : Time = 2018.01.16 12:00:00 ; Avalement haussier ; RSI = 47.10767280932132
+20180116130000 : Ordre d'achat
+20180116143803 : OnTick: TakeProfit touché sur Ordre d'Achat ; OrderTicket #13 OrderProfit=127.93000000
+20180116143803 : OnTick: TakeProfit touché sur Ordre d'Achat ; OrderTicket #13 OrderProfit=127.93000000
+20180116143803 : OnTick: TakeProfit touché sur Ordre d'Achat ; OrderTicket #13 OrderProfit=127.93000000
+20180117140000 : Time = 2018.01.17 13:00:00 ; Avalement haussier ; RSI = 58.37644829317869
+20180117140000 : Ordre d'achat
+20180117140402 : OnTick: TakeProfit touché sur Ordre d'Achat ; OrderTicket #14 OrderProfit=127.92000000
+20180117140402 : OnTick: TakeProfit touché sur Ordre d'Achat ; OrderTicket #14 OrderProfit=127.92000000
+20180118000000 : Time = 2018.01.17 23:00:00 ; Avalement haussier ; RSI = 67.85476077024842
+20180118000000 : Ordre d'achat
+20180118190000 : Time = 2018.01.18 18:00:00 ; Avalement haussier ; RSI = 60.72447372937031
+20180118190000 : Ordre d'achat
+20180118210000 : Time = 2018.01.18 20:00:00 ; Avalement haussier ; RSI = 62.24082890234717
+20180118210000 : Ordre d'achat
+20180119010000 : Time = 2018.01.19 00:00:00 ; Avalement haussier ; RSI = 61.71534292693893
+20180119010000 : Ordre d'achat
+20180123150000 : Time = 2018.01.23 14:00:00 ; Avalement haussier ; RSI = 48.0437081782948
+20180123150000 : Ordre d'achat
+20180123230000 : Time = 2018.01.23 22:00:00 ; Avalement haussier ; RSI = 48.4239811306231
+20180123230000 : Ordre d'achat
+20180124152848 : Balance finale = 3039.93000000
