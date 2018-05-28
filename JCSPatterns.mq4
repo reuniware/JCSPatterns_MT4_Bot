@@ -1,7 +1,7 @@
-//+------------------------------------------------------------------+
-//|                                                  JCSPatterns.mq4 |
-//|                                Copyright 2018, Investdata Systems|
-//|                 https://tradingbot.wixsite.com/robots-de-trading |
+﻿//+------------------------------------------------------------------+
+ //|                                                 JCSPatterns.mq4 |
+//|                            Copyright 2018, Investdata Systems|
+//|                                         https://tradingbot.wixsite.com/robots-de-trading |
 //+------------------------------------------------------------------+
 #property copyright "Copyright 2018, Investdata Systems"
 #property link      "https://tradingbot.wixsite.com/robots-de-trading"
