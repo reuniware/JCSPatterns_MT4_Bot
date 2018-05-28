@@ -7,9 +7,9 @@ This is a Metatrader 4 experimental bot that I coded while freestyling around de
 
 This robot only detect bulling engulfing patterns.
 
-It trades without Stop Loss so use it at your own risk if you test it on a real account.
+It trades without Stop Loss so use it at your own risk if you test it on a real account (You should not, IMHO).
 
-I suggest that you do a lot of backtests before trying it on a real account. I also suggest that you use small lots.
+I suggest that you do a lot of backtests before trying it on a real account (You should not, IMHA). I also suggest that you use small lots.
 
 You will have to change the Take Profit levels in the OrderSend() functions to set it properly for a specific instrument.
 
