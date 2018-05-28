@@ -1,6 +1,8 @@
 # JCSPatterns_MT4_Bot
 Experimental and simple robot for Metatrader 4
 
+This is intended to be used as a base for development of a Metatrader 4 bot (even if it works as is).
+
 This is a Metatrader 4 experimental bot that I coded while freestyling around detection of Bullish Engulfing Patterns (in french : Avalements Haussiers).
 
 This robot only detect bulling engulfing patterns.
@@ -17,5 +19,8 @@ This bot logs into a text file in the following folder :
 C:\Users\[USERNAME]\AppData\Roaming\MetaQuotes\Terminal\Common\Files
 
 https://tradingbot.wixsite.com/robots-de-trading
+
 https://ichimoku-expert.blogspot.com
+
 https://ntic974.blogspot.com
+
